@@ -1,0 +1,6 @@
+VF2 full clone local evidence
+source=c45256cebace5eaf386f02fb882c951fcf2d1e8e
+uimage_sha256=1cc998d76cb4dbe363a8765588ee452f99d53ce881683d5d0defa6ad2271ca06
+original_head=72be011c12223e3eb6977ca2fa162f8967a379fa
+shallow=false
+run=/proj/vf2-accept-c45256ce-1cc998d7-20260816-0914z
